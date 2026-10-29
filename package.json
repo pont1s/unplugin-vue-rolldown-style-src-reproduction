@@ -18,7 +18,6 @@
     "tsdown": "catalog:",
     "typescript": "catalog:",
     "unplugin-vue": "catalog:",
-    "vite": "catalog:",
     "vue-tsc": "catalog:"
   }
 }
